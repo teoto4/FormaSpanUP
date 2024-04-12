@@ -241,7 +241,7 @@ header, .nav_list {
 
 
 .forma_body input {
-    margin-top: 10px;
+    margin-top: 15px;
     padding: 14px;
     border-radius: 10px;
     width: 308px;
@@ -358,12 +358,12 @@ label{
 span{
     color: rgba(0, 0, 0, 0.5);
     position: absolute;
-    top: 40%;
+    top: 45%;
     left: 15px;
 }
 
 form label input:focus + span {
-    top: -10%;
+    top: -2%;
     color: black;
     font-size: 15px;
 }
